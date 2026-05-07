@@ -1,6 +1,7 @@
 
 ## Hi, I'm Elda Shatro
 🎓 Pursuing B.S. in CS @ UIC
+<br>
 🚀 Feel free to explore my repositories
 
 ## Contact Me
